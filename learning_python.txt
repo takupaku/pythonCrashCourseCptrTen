@@ -1,0 +1,5 @@
+In python you can make list,tuples and dictionary (list and dictionary are mutable)
+In python you can create class and function
+In python you can use loops, such as for loop and while loop
+In python you can use conditional sentences with if, elif and else
+In python you can use create games and build lots of beautiful websites
