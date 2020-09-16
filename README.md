@@ -1,0 +1,2 @@
+# pythonCrashCourseCptrTen
+files and exceptions
